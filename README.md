@@ -28,7 +28,7 @@ IOS：https://www.pgyer.com/8M0h
 Android：https://www.pgyer.com/SxMc
 密码：iosNIM
 
-*本开源示例项目简化了业务相关的逻辑*
+*本开源示例项目简化了业务相关的逻辑*1
 
 ## 联系我们
 * 如果你遇到了困难，可以先参阅 [知识库](https://faq.yunxin.163.com/kb/main/#/)
